@@ -1,5 +1,5 @@
 # Dmall-Discord
-A simplre dmall bot (with ping) on discord
+A simple dmall bot (with ping) on discord
 Credits To 𝓛𝓾𝓷𝓪🌙
 
 1) Must have discord.js Installed by using npm install discord.js or pip install discord.js
